@@ -39,6 +39,10 @@ This will produce a `goparse` binary in the project root.
 
 The Node.js parser is implemented in `nodeparse.js` and requires dependencies to be installed first.
 
+```bash
+npm install js-yaml
+```
+
 ## Running the Tests
 
 Place the test YAML in data.yaml. Once all parsers are built and installed, you can run the full test suite using:
