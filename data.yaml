@@ -1,0 +1,4 @@
+<<: {?"lang": Go, !!merge : {lang: NodeJS}}
+dfl: &morge "<<"
+*morge : {lang: RUBY}
+!!merge : {lang: PYTHON}
